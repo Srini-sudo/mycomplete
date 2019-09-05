@@ -9,6 +9,7 @@
     - name: Get config for VyOS devices
       vyos_facts:
         gather_subset: all
+    - version 2018
 
     - name: Display the config
       debug:
