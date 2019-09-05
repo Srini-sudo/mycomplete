@@ -1,5 +1,8 @@
 welcome to git session
 
+
+welcome to git session
+
 second line 
 
 thirdline
@@ -7,5 +10,7 @@ thirdline
 few more lines of code
 
 made changes newly
+
+welcome to git session
 
 
